@@ -1,0 +1,18 @@
+{
+  "name": "otpviasms",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "start"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "body-parser": "^1.20.3",
+    "dotenv": "^16.4.5",
+    "express": "^4.21.1",
+    "twilio": "^5.3.3"
+  }
+}
